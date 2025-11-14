@@ -49,3 +49,9 @@ This design is **MCP-native**, strongly typed, easy to inspect, and ideal for bu
 The server is currently live and hosted on Render. I have connected it as a custom tool in ChatGPT's new App Developer mode and will submit it as soon as the planned app store comes online.
 
 <img width="882" height="1118" alt="Screenshot from 2025-11-14 10-15-14" src="https://github.com/user-attachments/assets/9d354e4d-9173-4069-ba18-098717823c2f" />
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
